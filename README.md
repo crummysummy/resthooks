@@ -8,8 +8,6 @@
                                                                                                  
 ```
 
-testing
-
 REST Hooks are a lightweight subscription layer on top of your existing REST API.
 
 The real-time web is already here, but REST APIs haven't kept up. Many major players have already standardized upon subscription webhooks. REST Hooks are a way to consolidate that momentum and push it to a broarder audience.
